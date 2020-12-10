@@ -20,6 +20,8 @@ const vueResizeObserver = {
 
 export default vueResizeObserver;
 
+export const directive = resizeObserverDirective
+
 /**
  * 模块处理
  */
